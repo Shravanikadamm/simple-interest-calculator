@@ -1,6 +1,3 @@
-# simple-interest-calculator
-A simple interest calculator using Bash scripting
-
 # Simple Interest Calculator
 
 ## Description
@@ -32,4 +29,5 @@ bash simple-interest.sh
 The calculated simple interest is displayed on the terminal.
 
 ## Author
-Your Name
+Shravani
+
